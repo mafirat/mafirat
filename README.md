@@ -1,11 +1,11 @@
 ### Hi there 👋, My name is Mehmet Ali
 #### Full Stack Software Developer
-Senior Software Developer with 4 years' experience leading projects by acting as the architect, developer, and programmer analyst.
+Senior Software Developer with 5 years' experience leading projects by acting as the architect, developer, and programmer analyst.
 
-Skills: .Net & .Net core with C#, Python, React, Unity
+Skills: .Net & .Net core with C#, Python, JavaScript, React, Unity
 
 - 🔭 I’m currently working on React Projects 
-- 🌱 I’m currently learning Unity and Go 
+- 🌱 I’m currently learning Dart and Flutter 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mafirat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mehmetalifirat/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/5920912)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg' alt='udemy' height='40'>](https://www.udemy.com/user/mehmet-ali-firat/)  
